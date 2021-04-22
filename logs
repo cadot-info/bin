@@ -1,0 +1,2 @@
+result=${PWD##*/}
+docker logs $result
